@@ -143,7 +143,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
 	//Recursively print the left side of the current node, then the current node, 
 	//then recursively print the right side of current node
 	//For a bst this will print the values in sorted order from smallest to largest
-	public void inOrder() {
+	public void inOrder( ) {
 		 System.out.println("InOrder test commit"); 
 	}
 	
